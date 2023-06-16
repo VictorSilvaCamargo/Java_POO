@@ -1,0 +1,6 @@
+Data: 16/06/2023
+Caixa: Fernanda
+Cliente: Victor
+Produtos:
+- Arroz - R$ 10000.0
+Valor Total: R$ 10000.0
